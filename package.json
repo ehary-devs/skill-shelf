@@ -1,0 +1,13 @@
+{
+  "name": "skill-shelf",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Local catalog of installed agent skills with usage counts from Claude Code transcripts.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
